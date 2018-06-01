@@ -1,0 +1,468 @@
+.hmC{
+  position: fixed;
+  width: 100%;
+  height: 3em;
+  top: 0em;
+  z-index: 1;
+}
+.MM{
+  position: absolute;
+  width: 98%;
+  height: auto;
+  background-color: #ebeff4;
+}
+
+.MMS{
+  position: relative;
+  display: inline-block;
+  margin-top: .2em;
+  margin-bottom:.2em;
+  width: 30%;
+  height: 3em;
+  background-color: #dee1e5;
+}
+.MasterContainer{
+  position:relative;
+  height: auto;
+  top: 8em;
+  }
+
+body{
+  background-color: #f2f4f7;
+  z-index: -10;
+}
+h2{
+  position: relative;
+  top: -.5em;
+  text-align: center;
+  font-size: 1.4em;
+}
+h3{
+  position: relative;
+  text-align: center;
+  top: .5em;
+}
+a{
+  text-decoration: none;
+  color: #000;
+}
+.container{
+  position: fixed;
+  height: auto;
+  display: none;
+  top: 6.8em;
+  width: 70%;
+  left: 15%;
+  z-index: 5;
+  background-color: #ebeff4;
+}
+.Serv{
+  position: relative;
+  height: 3em;
+  top: -.6em;
+  background-color: #d7d9dd;
+}
+.hpMIFirst{
+  position: relative;
+  top: 0em;
+  height: 15em;
+  width: 100%;
+  background-image: url("../imgs/Ax.jpg");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+.infoContainer{
+  position: relative;
+  height: auto;
+  width: 100%;
+  top: 0em;
+  background-image: url("../imgs/MainStreet.jpeg");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+.infoTitle{
+  position: relative;
+  height: 3.8em;
+  background-color: #f2f4f7;
+  opacity: .8;
+  margin-bottom: -1.2em;
+  line-height: 1.6;
+}
+.infoText{
+  display: none;
+  background-color: #bec4ce;
+  margin-top: 1em;
+  margin-bottom: -1.2em;
+  opacity: .9;
+  height: auto;
+  overflow: auto;
+}
+
+.infoText2{
+  display: none;
+  background-color: #bec4ce;
+  margin-top: 0em;
+  margin-bottom: 0em;
+  opacity: .9;
+  height: auto;
+  overflow: auto;
+}
+
+.pC{
+  position: relative;
+  height: auto;
+  top: 1.6em;
+}
+
+.hpMI{
+  position: relative;
+  margin-top:1em;
+  height: 15em;
+  width: 100%;
+}
+#one{
+  background-image: url("../imgs/Army.jpeg");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+#two{
+  background-image: url("../imgs/Octopus.png");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+#three{
+  background-image: url("../imgs/Tree-of-Life.png");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+#four{
+  background-image: url("../imgs/Vino.jpeg");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+#five{
+  background-image: url("../imgs/welcome.png");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+.Store{
+  position: absolute;
+  margin-top:30em;
+  height: 20em;
+  width: 100%;
+}
+.buyNow{
+  position: relative;
+  height: 3em;
+  width: 8em;
+  top: 5em;
+  border-radius: 10px;
+  opacity: .8;
+  background-color: #b8e0ba;
+  color: #3d4349;
+}
+#buy{
+position: relative;
+top: .4em;
+}
+.gM{
+  position: absolute;
+  width: 100%;
+  top: 8em;
+}
+.gMV{
+  display: inline-block;
+  width: 30%;
+}
+.gPC{
+  position: relative;
+  height: auto;
+  margin-bottom: 2em;
+  width: 100%;
+}
+.gPCTitle{
+  position: relative;
+  height: 3em;
+  width: 80%;
+  left: 10%;
+  line-height: 3;
+  font-size: 1.2em;
+}
+#gMTitle{
+  background-color: #b8e0ba;
+}
+.gMTitle, #gMTitle{
+  position: relative;
+  line-height: 1.8;
+  height: 2em;
+  border-radius: 10px;
+}
+.gPCContent{
+  position: relative;
+  height: 13em;
+  width: 100%;
+}
+.MainContainer{
+  position: relative;
+  height: auto;
+  width: 100%;
+  top: 12em;
+}
+#imgOne{
+  background-image: url("../imgs/compass.jpeg");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+#imgTwo{
+  background-image: url("../imgs/Octopus.png");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+#imgThree{
+  background-image: url("../imgs/SF.jpeg");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+#imgFour{
+  background-image: url("../imgs/wingsOnPalett.jpeg");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+#imgFive{
+  background-image: url("../imgs/Vino.jpeg");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+#imgSix{
+  background-image: url("../imgs/MainStreet.jpeg");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+.readingWelcome{
+  position: relative;
+  background-color: #dee2ea;
+  height: auto;
+  overflow: auto;
+}
+#rW,#mR{
+  top: 8em;
+}
+.moreReading{
+  position: relative;
+  height: auto;
+  overflow: auto;
+  background-color: #dee2ea;
+}
+.mrTitle{
+  position: relative;
+  height: 4em;
+  background-color: #edeff2;
+}
+#mrTitle{
+  position: relative;
+  top: .5em;
+}
+#iT{
+  position: relative;
+  top: .4em;
+}
+#iTP,#iTP2,#iTP3{
+  top: -1.1em;
+}
+.mrBody{
+  position: relative;
+  height: auto;
+}
+.nicePic{
+  position: relative;
+  height: 18em;
+  top: 9em;
+  width: 100%;
+  margin-bottom: 1em;
+}
+#nP1{
+  background-image: url("../imgs/CNC.jpg");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+#nP2{
+  background-image: url("../imgs/sparks.jpg");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+#nP3{
+  background-image: url("../imgs/MainStreet.jpeg");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+#readingw2{
+  top: 7em;
+}
+#callUs{
+  position: relative;
+  top: 0em;
+}
+.callUs{
+  position: relative;
+  top: 1em;
+  margin-top: 1em;
+  height: 5em;
+  width: 5em;
+  background-color: #b8e0ba;
+  border-radius: 50%;
+  opacity: .8;
+  border: solid 2px #000;
+  -webkit-box-shadow: 0px 0px 19px 5px rgba(29,22,224,0.42);
+-moz-box-shadow: 0px 0px 19px 5px rgba(29,22,224,0.42);
+box-shadow: 0px 0px 19px 5px rgba(29,22,224,0.42);
+}
+.cContainer{
+  position: relative;
+  top: 7em;
+  height: 15em;
+  background-image: url("../imgs/turtles.jpg");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  opacity: .9;
+}
+.slideShow{
+  position: relative;
+  height: 15em;
+  width: 100%;
+  max-width: 1000px;
+  margin-bottom: 2em;
+}
+.slides, .slides2{
+  position: absolute;
+  height: 100%;
+  width: 100%;
+}
+#btn1,#btn2{
+  height: 3em;
+  width: 3em;
+  background-color: #616366;
+  color: #efefef;
+  border-radius: 50%;
+  top: 47%;
+}
+#btn1{
+  position: absolute;
+  float: left;
+}
+#btn2{
+  position: relative;
+  float: right;
+}
+button{
+  background-color: rgb(184, 224, 186);
+}
+
+@media only screen and (min-width : 600px){
+    .gPCContent, .slideShow{
+      height: 30em;
+      width: 80%;
+      left: 10%;
+    }
+
+    #btn1, #btn2{
+      height: 5em;
+      width: 5em;
+    }
+
+    .hpMI{
+      height: 25em; width: 80%; left: 10%;
+    }
+    .hpMIFirst,.nicePic,.cContainer{
+      height: 25em; width: 80%; left: 10%;
+    }
+    .infoContainer{
+      height: auto;
+      width: 80%; left: 10%;
+    }
+    .infoTitle{
+      height: 6em;
+      margin-top: 0em;
+      margin-bottom: -2em;
+    }
+    h3{
+      font-size: 140%;
+      line-height: 3;
+    }
+    .mrTitle{
+      height: 5em;
+    }
+    #mrTitle{
+      font-size: 2em;
+    }
+    .Serv{
+      height: 4em;
+    }
+    .MMS{
+      height: 6em;
+      width: 16%;
+    }
+    .infoText{
+        margin-top: 2em;
+    }
+    .buyNow{
+      top: 9em;
+      height: 6em;
+      width: 40%;
+    }
+    #buy{
+      font-size: 3em;
+    }
+    #iT{
+      font-size: 2em;
+    }
+    #mtxt{
+      line-height: 2.6;
+      font-size: 1.6em;
+    }
+    .readingWelcome, .nicePic, .moreReading{
+      width: 80%;
+      left: 10%;
+    }
+    .container{
+      position: fixed;
+      overflow: auto;
+      height: 25em;
+    }
+    .callUs{
+      top: 6em;
+      height: 8em;
+      width: 8em;
+      margin-top: 1em;
+    }
+    #callUs{
+      top: .4em;
+      font-size: 1.8em;
+    }
+}
+@media only screen and (min-width : 900px){
+  .hpMI{
+    height: 38em;
+  }
+  .hpMIFirst,.nicePic{
+    height: 38em;
+  }
+  .buyNow{
+    top: 16em;
+  }
+  .slideshow{
+    height: 38em;
+  }
+  #sl{
+    position: relative;
+    top: -8em;
+  }
+  button{
+    height: 5em;
+    width: 75%;
+    opacity: .7;
+    font-size: 1.4em;
+    margin-bottom: 5em;
+    border-radius: 10px;
+  }
+
+}
